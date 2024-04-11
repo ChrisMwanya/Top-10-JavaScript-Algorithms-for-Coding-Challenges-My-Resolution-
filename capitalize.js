@@ -9,6 +9,8 @@
 //   return result.trim();
 // }
 
+// Mukhtar Resolution
+
 function capitalize(str) {
   const words = str.split(" ");
   let result = [];
